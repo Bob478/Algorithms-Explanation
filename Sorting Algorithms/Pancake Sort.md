@@ -1,4 +1,4 @@
-Pancake Sort Algorithm
+# Pancake Sort Algorithm
 
 Write a short algorithm description like :-
 
